@@ -1,2 +1,2 @@
 # test-automation
-Automation of LC testing of the Contractor and the Customer
+Automation of testing of the Contractor's and Customer's personal account
